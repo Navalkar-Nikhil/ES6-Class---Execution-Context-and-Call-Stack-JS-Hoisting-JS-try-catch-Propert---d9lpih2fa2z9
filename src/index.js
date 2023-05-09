@@ -1,5 +1,5 @@
 //Write your code here
-ES6 Class                                                                                                                                                                                                       class API{
+class API{                                                                                                                                                                                                       class API{
     #secure;
     url;
     method;
