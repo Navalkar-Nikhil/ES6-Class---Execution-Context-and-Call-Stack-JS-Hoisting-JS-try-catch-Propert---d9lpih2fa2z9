@@ -1,5 +1,4 @@
-//Write your code here
-class API{                                                                                                                                                                                                       class API{
+//Write your code here                                                                                                                                                                                          class API{
     #secure;
     url;
     method;
@@ -20,6 +19,6 @@ class API{                                                                      
         this.#secure=false;
     }
 }
-
 //Do not remove this code
+
 module.exports = { API }
